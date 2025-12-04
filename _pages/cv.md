@@ -11,36 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* D.Sc. Kyoto University, 2026 (expected)
+* M.Sc. Kyoto University, 2024
+* B.Sc. Kyoto University, 2022
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,13 +28,18 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+-->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AY 2025: Teaching Assistant
+  * Kyoto University
+  * Teaching Assistant for Foundation of modern mathematics (Introductory courses for first-year students.)
+
+* AY 2024: Teaching Assistant
+  * Kyushu University
+  * Teaching Assistant for Exercise in mathematics (Introductory courses for first-year students.)
+
+* AY 2023: Teaching Assistant
+  * Kyushu University
+  * Teaching Assistant for Exercise in mathematics (Introductory courses for first-year students.)
