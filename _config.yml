@@ -26,9 +26,9 @@ author:
   avatar           : saishoin.jpg
   name             : "Kensuke Arakawa"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral student"
-  location         : "Kyoto, Japan"
-  employer         : "Kyoto University"
+  bio              : "Doctoral student at Kyoto University"
+  location         : #"Kyoto, Japan"
+  employer         : #"Kyoto University"
   uri              : # URL
   email            : "arakawa_kensuke.22c@st.kyoto-u.ac.jp" 
 
