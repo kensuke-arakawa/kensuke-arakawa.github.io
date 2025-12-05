@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 redirect_from:
   - /resume
+use_math: true
 ---
 
 {% include base_path %}
@@ -16,11 +17,11 @@ redirect_from:
 
 1. On Pavlov and Hovey's conjectures on combinatorial monoidal model categories. Geometry and Topology seminar (University of Western Ontario) (Aug. 2025).
 
-1. Monoidal relative categories model monoidal (∞,1)-categories. Moscow–Beijing Topology Seminar (Online) (June 2025).
+1. Monoidal relative categories model monoidal $(\infty,1)$-categories. Moscow–Beijing Topology Seminar (Online) (June 2025).
 
-1. Monoidal relative categories model monoidal ∞-categories. Homotopy Okinawa (Okinawa Sailor's Hotel) (June 2025).
+1. Monoidal relative categories model monoidal $\infty$-categories. Homotopy Okinawa (Okinawa Sailor's Hotel) (June 2025).
 
-1. Monoidal relative categories model monoidal (∞,1)-categories. The 9th East Asian Conference on Algebraic Topology (Hebei Normal University) (May 2025).
+1. Monoidal relative categories model monoidal $(\infty,1)$-categories. The 9th East Asian Conference on Algebraic Topology (Hebei Normal University) (May 2025).
 
 1. Axiomatic approach to symmetric sequences and infinity operads. Fukuoka homotopy theory seminar (Kyushu University) (Jan. 2025).
 
@@ -40,7 +41,7 @@ redirect_from:
 
 2023
 ======
-1. Bundling up ∞-categories with structuers. Homotopy Theory Symposium (Osaka Metropolitan University) (Nov. 2023).
+1. Bundling up $\infty$-categories with structuers. Homotopy Theory Symposium (Osaka Metropolitan University) (Nov. 2023).
 
 1. Classifying space via homotopy coherent nerve. Topology Friday Seminar (Kyushu University) (Jan. 2023).
 

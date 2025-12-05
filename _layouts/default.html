@@ -27,5 +27,9 @@ layout: compress
 
     {% include scripts.html %}
 
+    {% if page.use_math %}
+      {% include mathjax-custom.html %}
+    {% endif %}
   </body>
 </html>
+
