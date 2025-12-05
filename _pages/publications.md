@@ -32,7 +32,7 @@ Preprints
 
 1. Monoidal relative categories model monoidal ∞-categories. [arxiv: 2504.20606](https://arxiv.org/abs/2504.20606)
 
-1. The Grothendieck construction for \(\infty\)-categories fibered over categorical patterns. [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
+1. The Grothendieck construction for ∞-categories fibered over categorical patterns. [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
 
 1. A context for manifold calculus. [arxiv: 2403.03321](https://arxiv.org/abs/2403.03321)
 
