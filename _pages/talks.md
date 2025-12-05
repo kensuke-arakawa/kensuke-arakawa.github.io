@@ -22,6 +22,8 @@ redirect_from:
 
 1. Monoidal relative categories model monoidal (∞,1)-categories. The 9th East Asian Conference on Algebraic Topology (Hebei Normal University) (May 2025).
 
+1. Axiomatic approach to symmetric sequences and infinity operads. Fukuoka homotopy theory seminar (Kyushu University) (Jan. 2025).
+
 1. Axiomatic approach to symmetric sequences and infinity operads. One Day Workshop with Rachael Boyd on Algebraic Topology (Kyoto University) (Jan. 2025).
 
 2024
@@ -34,7 +36,7 @@ redirect_from:
 
 1. A Context for manifold calculus. Algebraic topology wakate joho kokankai (Nagoya University) (Mar. 2024).
 
-1. Classification diagrams of marked simplicial sets. Fukuoka Homotopy Theory Seminar (Kyushu University) (Jan. 2024).
+1. Classification diagrams of marked simplicial sets. Fukuoka homotopy theory seminar (Kyushu University) (Jan. 2024).
 
 2023
 ======
