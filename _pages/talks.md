@@ -19,7 +19,7 @@ use_math: true
 
 1. Monoidal relative categories model monoidal (∞,1)-categories. Moscow–Beijing Topology Seminar (Online) (June 2025).
 
-1. Monoidal relative categories model monoidal \\(\infty\\)-categories. Homotopy Okinawa (Okinawa Sailor's Hotel) (June 2025).
+1. Monoidal relative categories model monoidal $\infty$-categories. Homotopy Okinawa (Okinawa Sailor's Hotel) (June 2025).
 
 1. Monoidal relative categories model monoidal (∞,1)-categories. The 9th East Asian Conference on Algebraic Topology (Hebei Normal University) (May 2025).
 
