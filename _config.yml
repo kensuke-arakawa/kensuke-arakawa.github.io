@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Kensuke Arakawa's webpage"
+title                    : "Kensuke Arakawa"
 title_separator          : "-"
 name                     : &name "Kensuke Arakawa"
 description              : &description "academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
