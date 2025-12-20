@@ -22,6 +22,7 @@ Accepted papers
 Preprints
 ======
 
+1. Relative operads model $\infty$-operads. (Joint with Victor Carmona and Francesca Pratali.) [arxiv: 2512.16374](https://arxiv.org/abs/2512.16374)
 1. Cubical models of $\infty$-presheaves and the Bousfield–Kan formula. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv: 2511.12809](https://arxiv.org/abs/2511.12809)
 1. Derived mapping spaces of $\infty$-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv: 2509.10288](https://arxiv.org/abs/2509.10288)
 1. Monoidal relative categories model monoidal $\infty$-categories. [arxiv: 2504.20606](https://arxiv.org/abs/2504.20606)
