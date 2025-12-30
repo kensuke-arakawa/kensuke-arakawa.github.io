@@ -34,3 +34,5 @@ Preprints
 
 In Preparation
 ======
+
+1. On Pavlov's conjecture on symmetric monoidal model categories. [draft](https://kensuke-arakawa.github.io/files/prsmcat_csmmc.pdf)
