@@ -11,6 +11,7 @@ redirect_from:
 
 Accepted papers
 ======
+1. A context for manifold calculus. To appaer in *J. Homotopy Relat. Struct.*
 1. Universal properties of variations of the little cubes operads. *Münster J. Math.* **18**, 1–26. (2025) 
 1. Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions. *Appl. Categ. Structures* **33**, 28, 40. (2025)
 1. Classification diagrams of simplicial categories. 
@@ -27,7 +28,6 @@ Preprints
 1. Derived mapping spaces of $\infty$-categories. (Joint with Daniel Carranza and Chris Kapulkin.) [arxiv: 2509.10288](https://arxiv.org/abs/2509.10288)
 1. Monoidal relative categories model monoidal $\infty$-categories. [arxiv: 2504.20606](https://arxiv.org/abs/2504.20606)
 1. The Grothendieck construction for $\infty$-categories fibered over categorical patterns. [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
-1. A context for manifold calculus. [arxiv: 2403.03321](https://arxiv.org/abs/2403.03321)
 1. Classification diagrams of marked simplicial sets. [arxiv: 2311.01101](https://arxiv.org/abs/2311.01101)
 1. Homotopy limits and homotopy colimits of chain complexes. [arxiv: 2310.00201](https://arxiv.org/abs/2310.00201)
 
