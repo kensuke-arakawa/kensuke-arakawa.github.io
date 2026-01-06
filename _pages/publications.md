@@ -13,9 +13,8 @@ Accepted papers
 ======
 1. A context for manifold calculus. To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
 1. Universal properties of variations of the little cubes operads. *Münster J. Math.* **18**, 1–26. (2025) [journal](https://www.uni-muenster.de/FB10/mjm/vol_18/mjm_vol_18_01.pdf) [arxiv](https://arxiv.org/abs/2406.01084)
-1. Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions. *Appl. Categ. Structures* **33**, 28, 40. (2025)
-1. Classification diagrams of simplicial categories. [jounral](https://link.springer.com/article/10.1007/s10485-025-09821-3) [arxiv](https://arxiv.org/abs/2303.10813)
-*Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025)
+1. Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions. *Appl. Categ. Structures* **33**, 28, 40. (2025) [journal](https://link.springer.com/article/10.1007/s10485-025-09821-3) [arxiv](https://arxiv.org/abs/2303.10813)
+1. Classification diagrams of simplicial categories. *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
 1. A short proof of the universality of the relative Rezk nerve. (Joint with Bastiaan Cnossen.) To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
 1. Classifying space via homotopy coherent nerve. 
 *Homology Homotopy Appl.* **25**, 373–381. (2023) [journal](https://intlpress.com/JDetail/1805805489545953282) [arxiv](https://arxiv.org/abs/2208.00550)
