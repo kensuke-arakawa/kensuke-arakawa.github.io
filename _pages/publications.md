@@ -35,3 +35,4 @@ In Preparation
 ======
 
 1. On Pavlov's conjecture on symmetric monoidal model categories. [draft](https://kensuke-arakawa.github.io/files/prsmcat_csmmc.pdf)
+1. On the equivalence of Brantner's and Chu–Haugseng's approaches to enriched $\infty$-operads.

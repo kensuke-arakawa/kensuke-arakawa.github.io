@@ -10,6 +10,9 @@ use_math: true
 
 {% include base_path %}
 
+2026
+======
+1. Theory and metatheory of relative operads. Mini workshop on algebraic and geometic topology (Kyoto University) (Jan. 2026).
 
 2025
 ======
