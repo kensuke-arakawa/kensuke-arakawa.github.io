@@ -11,7 +11,7 @@ redirect_from:
 
 Accepted papers
 ======
-1. **Monoidal relative categories model monoidal $\infty$-categories**. To appear in *J. Pure Appl. Algebra* [arxiv: 2504.20606](https://arxiv.org/abs/2504.20606)
+1. **Monoidal relative categories model monoidal $\infty$-categories**. To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2504.20606)
 1. **A context for manifold calculus**. To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
 1. **Universal properties of variations of the little cubes operads**. *Münster J. Math.* **18**, 1–26. (2025) [journal](https://www.uni-muenster.de/FB10/mjm/vol_18/mjm_vol_18_01.pdf) [arxiv](https://arxiv.org/abs/2406.01084)
 1. **Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions**. *Appl. Categ. Structures* **33**, 28, 40. (2025) [journal](https://link.springer.com/article/10.1007/s10485-025-09821-3) [arxiv](https://arxiv.org/abs/2303.10813)
