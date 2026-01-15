@@ -37,8 +37,8 @@ Preprints
 [arxiv: 2509.10288](https://arxiv.org/abs/2509.10288)
 1. **The Grothendieck construction for $\infty$-categories fibered over categorical patterns**.  
 [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
-1. **Classification diagrams of marked simplicial sets**. 
- [arxiv: 2311.01101](https://arxiv.org/abs/2311.01101)
+1. **Classification diagrams of marked simplicial sets**. 　
+[arxiv: 2311.01101](https://arxiv.org/abs/2311.01101)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 [arxiv: 2310.00201](https://arxiv.org/abs/2310.00201)
 
