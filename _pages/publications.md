@@ -14,7 +14,7 @@ Accepted papers
 1. **A context for manifold calculus**.  
 To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
-To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2504.20606)
+To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2504.20606) [journal](https://doi.org/10.1016/j.jpaa.2026.108183)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Classification diagrams of simplicial categories**.  
