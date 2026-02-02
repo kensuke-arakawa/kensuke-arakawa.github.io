@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
   const emailLink = document.querySelector('a[href^="mailto:"]');
-
   if (!emailLink) return;
 
   const email = emailLink
@@ -23,6 +22,25 @@ document.addEventListener("DOMContentLoaded", function () {
           icon.classList.add("fa-envelope");
         }, 1500);
       }
+
+      showToast("Email copied to clipboard");
     });
   });
+
+  function showToast(message) {
+    const toast = document.createElement("span");
+    toast.className = "email-toast";
+    toast.textContent = message;
+
+    emailLink.appendChild(toast);
+
+    requestAnimationFrame(() => {
+      toast.classList.add("show");
+    });
+
+    setTimeout(() => {
+      toast.classList.remove("show");
+      toast.addEventListener("transitionend", () => toast.remove());
+    }, 2000);
+  }
 });
