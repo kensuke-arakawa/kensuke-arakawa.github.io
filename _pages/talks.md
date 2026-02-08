@@ -12,17 +12,17 @@ use_math: true
 
 2026
 ======
-1. Theory and metatheory of relative operads. Mini workshop on algebraic and geometic topology (Kyoto University) (Jan. 2026).
-1. Manifold calculus beyond space-valued functors. 
-Mathematical Structures in Physics Seminar. (Max Planck Institute MiS Leipzig) (Feb. 2026).
-<!--
-https://www.mis.mpg.de/events/event/manifold-calculus-beyond-space-valued-functors
--->
 1. Manifold calculus beyond space-valued functors. 
 Seminar talk. (EPFL) (Feb. 2026).
 <!--
 https://memento.epfl.ch/event/manifold-calculus-beyond-space-valued-functors/
 -->
+1. Manifold calculus beyond space-valued functors. 
+Mathematical Structures in Physics Seminar. (Max Planck Institute MiS Leipzig) (Feb. 2026).
+<!--
+https://www.mis.mpg.de/events/event/manifold-calculus-beyond-space-valued-functors
+-->
+1. Theory and metatheory of relative operads. Mini workshop on algebraic and geometic topology (Kyoto University) (Jan. 2026).
 
 2025
 ======
