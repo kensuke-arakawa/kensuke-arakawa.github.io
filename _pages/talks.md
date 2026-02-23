@@ -12,7 +12,10 @@ use_math: true
 
 2026
 ======
-1. How to compare models of enriched $\infty$-operads. Lectures on $\infty$-operads (Universiteit Utrecht) (Feb. 2026).
+1. How to compare models of enriched $\infty$-operads. Two lectures on $\infty$-operads (Universiteit Utrecht) (Feb. 2026).
+<!--
+https://sites.google.com/view/francescapratali/two-lectures-on-infinity-operads
+-->
 1. Manifold calculus beyond space-valued functors. 
 Seminar talk (EPFL) (Feb. 2026).
 <!--
