@@ -16,7 +16,7 @@ To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.033
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
-To appear in *J. Pure Appl. Algebra* [arxiv: 2310.00201](https://arxiv.org/abs/2310.00201)
+To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
 To appear in *J. Pure Appl. Algebra* [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
 1. **Classification diagrams of simplicial categories**.  
