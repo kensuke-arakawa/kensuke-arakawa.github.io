@@ -12,6 +12,7 @@ use_math: true
 
 2026
 ======
+1. An operadic version of Mazel-Gee's localization theorem. FGC Higher Structure Seminar (Online) (Mar. 2026).
 1. How to compare models of enriched $\infty$-operads. Two lectures on $\infty$-operads (Universiteit Utrecht) (Feb. 2026).
 <!--
 https://sites.google.com/view/francescapratali/two-lectures-on-infinity-operads
