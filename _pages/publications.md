@@ -26,7 +26,7 @@ To appear in *J. Pure Appl. Algebra* [journal](https://doi.org/10.1016/j.jpaa.20
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
 1. **Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions**.  
 *Appl. Categ. Structures* **33**, 28, 40. (2025) [journal](https://link.springer.com/article/10.1007/s10485-025-09821-3) [arxiv](https://arxiv.org/abs/2303.10813)
-1. **Universal properties of variations of the little cubes operads**. 
+1. **Universal properties of variations of the little cubes operads**.  
 *Münster J. Math.* **18**, 1–26. (2025) [journal](https://www.uni-muenster.de/FB10/mjm/vol_18/mjm_vol_18_01.pdf) [arxiv](https://arxiv.org/abs/2406.01084)
 1. **Classifying space via homotopy coherent nerve**.  
 *Homology Homotopy Appl.* **25**, 373–381. (2023) [journal](https://intlpress.com/JDetail/1805805489545953282) [arxiv](https://arxiv.org/abs/2208.00550)
