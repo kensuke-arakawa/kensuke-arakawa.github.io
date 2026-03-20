@@ -20,7 +20,7 @@ To appear in *Algebr. Geom. Topol.*
 [arxiv](https://arxiv.org/abs/2509.10288)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2310.00201)
-1. **Monoidal relative categories model monoidal $\infty$-categories**. 
+1. **Monoidal relative categories model monoidal $\infty$-categories**.  
 To appear in *J. Pure Appl. Algebra* [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
 1. **Classification diagrams of simplicial categories**.  
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
