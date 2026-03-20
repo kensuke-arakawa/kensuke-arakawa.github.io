@@ -12,7 +12,7 @@ redirect_from:
 Accepted papers
 ======
 1. **A context for manifold calculus**.  
-To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
+To appaer in *J. Homotopy Relat. Struct.* [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
