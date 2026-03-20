@@ -15,18 +15,18 @@ Accepted papers
 To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
-1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.) 
+1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
 To appear in *Algebr. Geom. Topol.*
 [arxiv](https://arxiv.org/abs/2509.10288)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2310.00201)
-1. **Monoidal relative categories model monoidal $\infty$-categories**.
+1. **Monoidal relative categories model monoidal $\infty$-categories**. 
 To appear in *J. Pure Appl. Algebra* [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
 1. **Classification diagrams of simplicial categories**.  
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
 1. **Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions**.  
 *Appl. Categ. Structures* **33**, 28, 40. (2025) [journal](https://link.springer.com/article/10.1007/s10485-025-09821-3) [arxiv](https://arxiv.org/abs/2303.10813)
-1. **Universal properties of variations of the little cubes operads**.  
+1. **Universal properties of variations of the little cubes operads**. 
 *Münster J. Math.* **18**, 1–26. (2025) [journal](https://www.uni-muenster.de/FB10/mjm/vol_18/mjm_vol_18_01.pdf) [arxiv](https://arxiv.org/abs/2406.01084)
 1. **Classifying space via homotopy coherent nerve**.  
 *Homology Homotopy Appl.* **25**, 373–381. (2023) [journal](https://intlpress.com/JDetail/1805805489545953282) [arxiv](https://arxiv.org/abs/2208.00550)
