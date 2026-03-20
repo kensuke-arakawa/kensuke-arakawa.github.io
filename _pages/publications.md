@@ -15,6 +15,9 @@ Accepted papers
 To appaer in *J. Homotopy Relat. Struct.* [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
+1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.) 
+To appear in *Algebr. Geom. Topol.*
+[arxiv](https://arxiv.org/abs/2509.10288)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
@@ -35,8 +38,6 @@ Preprints
 [arxiv: 2512.16374](https://arxiv.org/abs/2512.16374)
 1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
 [arxiv: 2511.12809](https://arxiv.org/abs/2511.12809)
-1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
-[arxiv: 2509.10288](https://arxiv.org/abs/2509.10288)
 1. **The Grothendieck construction for $\infty$-categories fibered over categorical patterns**.  
 [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
 1. **Classification diagrams of marked simplicial sets**.  
