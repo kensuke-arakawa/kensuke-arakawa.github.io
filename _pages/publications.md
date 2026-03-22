@@ -12,16 +12,16 @@ redirect_from:
 Accepted papers
 ======
 1. **A context for manifold calculus**.  
-To appaer in *J. Homotopy Relat. Struct.* [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
+*J. Homotopy Relat. Struct.* (To appear) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
-To appear in *Proc. Amer. Math. Soc.* [arxiv](https://arxiv.org/abs/2505.14123)
+*Proc. Amer. Math. Soc.* (To appear) [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
-To appear in *Algebr. Geom. Topol.*
+*Algebr. Geom. Topol.* (To appear)
 [arxiv](https://arxiv.org/abs/2509.10288)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
-To appear in *J. Pure Appl. Algebra* [arxiv](https://arxiv.org/abs/2310.00201)
+*J. Pure Appl. Algebra* (To appear) [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
-To appear in *J. Pure Appl. Algebra* [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
+*J. Pure Appl. Algebra* (To appear) [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
 1. **Classification diagrams of simplicial categories**.  
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
 1. **Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions**.  
