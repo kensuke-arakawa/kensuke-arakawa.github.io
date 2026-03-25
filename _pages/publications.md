@@ -33,7 +33,10 @@ Accepted papers
   
 Preprints
 ======
-
+1. **On the equivalence of Brantner's and Chu–Haugseng's approaches to enriched $\infty$-operads**.  
+[arxiv: 2603.23019](https://arxiv.org/abs/2603.23019)
+1. **On Pavlov's conjecture on symmetric monoidal model categories**.  
+[arxiv: 2603.23018](https://arxiv.org/abs/2603.23018)
 1. **Relative operads model $\infty$-operads**. (Joint with Victor Carmona and Francesca Pratali.)  
 [arxiv: 2512.16374](https://arxiv.org/abs/2512.16374)
 1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
@@ -42,12 +45,3 @@ Preprints
 [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
 1. **Classification diagrams of marked simplicial sets**.  
 [arxiv: 2311.01101](https://arxiv.org/abs/2311.01101)
-
-
-In Preparation
-======
-
-1. **On Pavlov's conjecture on symmetric monoidal model categories**.  
-[draft](https://kensuke-arakawa.github.io/files/prsmcat_csmmc.pdf)
-1. **On the equivalence of Brantner's and Chu–Haugseng's approaches to enriched $\infty$-operads**.  
-[draft](https://kensuke-arakawa.github.io/files/enropd_comparison.pdf)
