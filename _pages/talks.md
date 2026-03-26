@@ -41,8 +41,8 @@ https://www.mis.mpg.de/events/event/manifold-calculus-beyond-space-valued-functo
 
 2024
 ======
+1. Mazel-Gee's localization theorem via marked simplicial spaces. Categorical Logic and Higher Categories (University of Manchester) (Dec. 2024).
 1. Gluing Little Cubes Operads. Differential topology seminar (Kyoto University) (Oct. 2024).
-1. Mazel-Gee's localization theorem via marked simplicial spaces. Categorical Logic and Higher Categories (University of Manchester) (Oct. 2024).
 1. Fundamental theorems of manifold calculus via localization. Algebraic and Geometric Models of Spaces and Related Topics (Shinshu University) (Aug. 2024).
 1. A Context for manifold calculus. Algebraic topology wakate joho kokankai (Nagoya University) (Mar. 2024).
 1. Classification diagrams of marked simplicial sets. Fukuoka homotopy theory seminar (Kyushu University) (Jan. 2024).
