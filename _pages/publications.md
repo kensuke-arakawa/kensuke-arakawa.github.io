@@ -21,7 +21,7 @@ Accepted papers
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 *J. Pure Appl. Algebra* (To appear) [journal](https://doi.org/10.1016/j.jpaa.2026.108232) [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
-*J. Pure Appl. Algebra* (To appear) [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
+*J. Pure Appl. Algebra* **230**, 108183. (2026) [journal](https://doi.org/10.1016/j.jpaa.2026.108183) [arxiv](https://arxiv.org/abs/2504.20606) 
 1. **Classification diagrams of simplicial categories**.  
 *Cah. Topol. Géom. Différ. Catég.* **66**, 26–43. (2025) [journal](https://cahierstgdc.com/wp-content/uploads/2025/10/Arakawa_LXVI-4-2.pdf) [arxiv](https://arxiv.org/abs/2401.16855)
 1. **Monoidal envelopes of families of $\infty$-operads and $\infty$-operadic Kan extensions**.  
