@@ -36,7 +36,7 @@ Talks
 
 Funding
 ======
-* 2024– JSPS Research Fellow (DC1) ([24KJ1443](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1443/))
+* 2024– JSPS Research Fellow (DC1, PD) ([24KJ1443](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1443/))
   
 Teaching
 ======
