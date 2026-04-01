@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Employment
+======
+* JSPS Research fellow (PD) April 2026-
+
 Education
 ======
-* D.Sc. Kyoto University, 2026 (expected)
-* M.Sc. Kyoto University, 2024
-* B.Sc. Kyoto University, 2022
+* D.Sc. Kyoto University, March 2026
+* M.Sc. Kyoto University, March 2024
+* B.Sc. Kyoto University, March 2022
 
 
 <!-- 
