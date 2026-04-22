@@ -35,7 +35,7 @@ Preprints
 ======
 1. **On the equivalence of Brantner's and Chu–Haugseng's approaches to enriched $\infty$-operads**.  
 [arxiv: 2603.23019](https://arxiv.org/abs/2603.23019)
-1. **On Pavlov's conjecture on symmetric monoidal model categories**.  
+1. **On the equivalence of two approaches to multiplicative homotopy theories**.  
 [arxiv: 2603.23018](https://arxiv.org/abs/2603.23018)
 1. **Relative operads model $\infty$-operads**. (Joint with Victor Carmona and Francesca Pratali.)  
 [arxiv: 2512.16374](https://arxiv.org/abs/2512.16374)
