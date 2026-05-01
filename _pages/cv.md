@@ -11,7 +11,8 @@ redirect_from:
 
 Employment
 ======
-* JSPS Research fellow (PD), April 2026–present.
+* Assitant professor, RIMS, Kyoto University, May 2026–present.
+* JSPS Research fellow (PD), Kyoto University, April 2026–May 2026.
 
 Education
 ======
