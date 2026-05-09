@@ -13,11 +13,11 @@ Accepted papers
 ======
 1. **A context for manifold calculus**.  
 *J. Homotopy Relat. Struct.* (To appear) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
-1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
-*Proc. Amer. Math. Soc.* (To appear) [arxiv](https://arxiv.org/abs/2505.14123) [journal](https://doi.org/10.1090/proc/17483)
 1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
 *Algebr. Geom. Topol.* (To appear)
 [arxiv](https://arxiv.org/abs/2509.10288)
+1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
+*Proc. Amer. Math. Soc.* **154**, 1849–1853. (2026) [arxiv](https://arxiv.org/abs/2505.14123) [journal](https://doi.org/10.1090/proc/17483)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 *J. Pure Appl. Algebra* **230**, 108232. (2026) [journal](https://doi.org/10.1016/j.jpaa.2026.108232) [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
