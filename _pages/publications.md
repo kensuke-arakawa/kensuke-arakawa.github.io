@@ -17,7 +17,7 @@ Accepted papers
 *Algebr. Geom. Topol.* (To appear)
 [arxiv](https://arxiv.org/abs/2509.10288)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
-*Proc. Amer. Math. Soc.* **154**, 1849–1853. (2026) [arxiv](https://arxiv.org/abs/2505.14123) [journal](https://doi.org/10.1090/proc/17483)
+*Proc. Amer. Math. Soc.* **154**, 1849–1853. (2026) [journal](https://doi.org/10.1090/proc/17483) [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
 *J. Pure Appl. Algebra* **230**, 108232. (2026) [journal](https://doi.org/10.1016/j.jpaa.2026.108232) [arxiv](https://arxiv.org/abs/2310.00201)
 1. **Monoidal relative categories model monoidal $\infty$-categories**.  
