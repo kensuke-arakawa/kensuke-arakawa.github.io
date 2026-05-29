@@ -12,6 +12,10 @@ use_math: true
 
 2026
 ======
+<!--
+Don't forget to update DB and Researchmap!
+-->
+
 1. On the equivalence of two approaches to multiplicative homotopy theories. Texas Tech Topology and Geometry Seminar (Online) (Apr. 2026)
 1. An operadic version of Mazel-Gee's localization theorem. FGC Higher Structure Seminar (Online) (Mar. 2026).
 1. How to compare models of enriched $\infty$-operads. Two lectures on $\infty$-operads (Universiteit Utrecht) (Feb. 2026).
@@ -51,5 +55,5 @@ https://www.mis.mpg.de/events/event/manifold-calculus-beyond-space-valued-functo
 2023
 ======
 1. Bundling up $\infty$-categories with structuers. Homotopy Theory Symposium (Osaka Metropolitan University) (Nov. 2023).
-1. Classifying space via homotopy coherent nerve. Topology Friday Seminar (Kyushu University) (Jan. 2023).
+1. Classifying space via homotopy coherent nerve. Topology Friday Seminar (Kyushu University) (June 2023).
 1. Classifying space via homotopy coherent nerve. Algebraic topology wakate joho kokankai (Nagoya University) (Mar. 2023).

@@ -11,6 +11,10 @@ redirect_from:
 
 Accepted papers
 ======
+
+<!--
+Don't forget to update DB and Researchmap!
+-->
 1. **A context for manifold calculus**.  
 *J. Homotopy Relat. Struct.* (To appear) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
