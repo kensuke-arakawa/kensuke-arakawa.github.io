@@ -43,12 +43,12 @@ Teaching
 ======
 * AY 2025: Teaching Assistant
   * Kyoto University
-  * Teaching Assistant for Foundation of modern mathematics (Introductory courses for first-year students.)
+  * Teaching Assistant for Foundation of modern mathematics (introductory courses for first-year students).
 
 * AY 2024: Teaching Assistant
   * Kyushu University
-  * Teaching Assistant for Exercise in mathematics (Introductory courses for first-year students.)
+  * Teaching Assistant for Exercise in mathematics (introductory courses for first-year students).
 
 * AY 2023: Teaching Assistant
   * Kyushu University
-  * Teaching Assistant for Exercise in mathematics (Introductory courses for first-year students.)
+  * Teaching Assistant for Exercise in mathematics (introductory courses for first-year students).
