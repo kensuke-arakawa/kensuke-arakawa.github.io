@@ -37,7 +37,7 @@ Don't forget to update DB and Researchmap!
   
 Preprints
 ======
-1. **Relative dendroidal Rezk nerve and applications**.
+1. **Relative dendroidal Rezk nerve and applications**.  
 [arxiv: 2606.11895](https://arxiv.org/abs/2606.11895)
 1. **On the equivalence of Brantner's and Chu–Haugseng's approaches to enriched $\infty$-operads**.  
 [arxiv: 2603.23019](https://arxiv.org/abs/2603.23019)
