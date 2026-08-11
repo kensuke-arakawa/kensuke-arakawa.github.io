@@ -15,6 +15,8 @@ Accepted papers
 <!--
 Don't forget to update DB and Researchmap!
 -->
+1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.) 
+*Advances in Math.* (To appear) [arxiv](https://arxiv.org/abs/2511.12809)
 1. **A context for manifold calculus**.  
 *J. Homotopy Relat. Struct.* (To appear) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **Derived mapping spaces of $\infty$-categories**. (Joint with Daniel Carranza and Chris Kapulkin.)  
@@ -45,8 +47,6 @@ Preprints
 [arxiv: 2603.23018](https://arxiv.org/abs/2603.23018)
 1. **Relative operads model $\infty$-operads**. (Joint with Victor Carmona and Francesca Pratali.)  
 [arxiv: 2512.16374](https://arxiv.org/abs/2512.16374)
-1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
-[arxiv: 2511.12809](https://arxiv.org/abs/2511.12809)
 1. **The Grothendieck construction for $\infty$-categories fibered over categorical patterns**.  
 [arxiv: 2404.01025](https://arxiv.org/abs/2404.01025)
 1. **Classification diagrams of marked simplicial sets**.  
