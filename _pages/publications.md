@@ -15,7 +15,7 @@ Accepted papers
 <!--
 Don't forget to update DB and Researchmap!
 -->
-1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.) 
+1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
 *Advances in Math.* (To appear) [arxiv](https://arxiv.org/abs/2511.12809)
 1. **A context for manifold calculus**.  
 *J. Homotopy Relat. Struct.* (To appear) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
