@@ -1,0 +1,4 @@
+\newcommand{\Map}{\operatorname{Map}}
+\newcommand{\Ar}{\mathrm{Ar}}
+\newcommand{\Cat}{\mathsf{Cat}}
+\newcommand{\cat}[1]{\mathcal{#1}}
