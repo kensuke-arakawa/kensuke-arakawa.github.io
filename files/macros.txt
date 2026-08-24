@@ -2,3 +2,6 @@
 \newcommand{\Ar}{\mathrm{Ar}}
 \newcommand{\Cat}{\mathsf{Cat}}
 \newcommand{\cat}[1]{\mathcal{#1}}
+\newcommand{\diag}{\mathrm{diag}}
+\newcommand{\ev}{\mathrm{ev}}
+\newcommand{\id}{\mathrm{id}}
