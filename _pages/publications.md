@@ -19,7 +19,7 @@ Don't forget to update DB and Researchmap!
 *Algebr. Geom. Topol.* (To appear)
 [arxiv](https://arxiv.org/abs/2509.10288)
 1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
-*Advances in Math.* **503**, 111217. (2026) [journal](https://doi.org/10.1016/j.aim.2026.111217)[arxiv](https://arxiv.org/abs/2511.12809)
+*Advances in Math.* **503**, 111217. (2026) [journal](https://doi.org/10.1016/j.aim.2026.111217) [arxiv](https://arxiv.org/abs/2511.12809)
 1. **A context for manifold calculus**.  
 *J. Homotopy Relat. Struct.* [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
