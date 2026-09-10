@@ -15,6 +15,10 @@ use_math: true
 <!--
 Don't forget to update DB and Researchmap!
 -->
+1. Truncated graphs. The Fifth Pan-Pacific International Conference on Topology and Applications. (Osaka Metropolitan University) (Sep. 2026).
+<!--
+https://sites.google.com/view/ppicta2026
+-->
 1. Towards the discrete homotopy hypothesis. Topology Seminar (University of Western Ontario) (Jun. 2026).
 <!--
 https://mathcal.sci.uwo.ca/V2/index.php?getdate=20260615
