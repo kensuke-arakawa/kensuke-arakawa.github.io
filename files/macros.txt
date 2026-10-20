@@ -5,3 +5,5 @@
 \newcommand{\diag}{\mathrm{diag}}
 \newcommand{\ev}{\mathrm{ev}}
 \newcommand{\id}{\mathrm{id}}
+\newcommand{\Fun}{\mathrm{Fun}}
+\newcommand{\Op}{\mathsf{Op}}

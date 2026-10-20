@@ -15,6 +15,10 @@ use_math: true
 <!--
 Don't forget to update DB and Researchmap!
 -->
+1. What is ... discrete homotopy theory? Kyoto University Math Colloquium. (Kyoto University) (Oct. 2026).
+<!--
+https://www.math.kyoto-u.ac.jp/ja/event/seminar/6100
+-->
 1. Truncated graphs. The Fifth Pan-Pacific International Conference on Topology and Applications. (Osaka Metropolitan University) (Sep. 2026).
 <!--
 https://sites.google.com/view/ppicta2026
