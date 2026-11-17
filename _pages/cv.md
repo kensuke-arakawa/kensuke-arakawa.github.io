@@ -37,7 +37,7 @@ Talks
 
 Funding
 ======
-* Grant-in-Aid for Research Activity Start-up [26K24487](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K24487/), 2026-present.
+* Grant-in-Aid for Research Activity Start-up [26K24487](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K24487/), 2026–present.
 
 * JSPS Research fellow (DC1, PD) [24KJ1443](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-24KJ1443/), 2024–2026. 
   
