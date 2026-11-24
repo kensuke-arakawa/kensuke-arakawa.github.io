@@ -9,4 +9,6 @@ redirect_from:
 
 Hi! I am Kensuke Arakawa, a (non-TT) assistant professor at [RIMS, Kyoto University](https://www.kurims.kyoto-u.ac.jp/en/index.html). People usually call me **Ken**.
 
-I am broadly interested in the interaction of homotopy theory and category theory. I am especially interested in techniques to analyze higher structures from more accessible ones, such as *localization*, *model categories*, and *functor calculus*. I am also interested in applying these techniques to studying manifolds. 
+I will be visiting Utrecht University from September 2027 to August 2029, hosted by Gijs Heuts and funded by [JSPS](https://www.jsps.go.jp/english/e-ab/_).
+
+I am broadly interested in the interaction of homotopy theory and category theory. I am especially interested in techniques to analyze higher structures from more accessible ones, such as *localization*, *model categories*, and *functor calculus*. I am also interested in applying these techniques to studying manifolds and *operads*.
