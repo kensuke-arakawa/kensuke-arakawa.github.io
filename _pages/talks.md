@@ -15,7 +15,7 @@ use_math: true
 <!--
 Don't forget to update DB and Researchmap!
 -->
-1. What is ... discrete homotopy theory? Kyoto University Math Colloquium. (Kyoto University) (Oct. 2026).
+1. What is ... discrete homotopy theory? Math Colloquium. (Kyoto University) (Oct. 2026).
 <!--
 https://www.math.kyoto-u.ac.jp/ja/event/seminar/6100
 -->
