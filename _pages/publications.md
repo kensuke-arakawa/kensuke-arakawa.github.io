@@ -21,7 +21,7 @@ Don't forget to update DB and Researchmap!
 1. **Cubical models of $\infty$-presheaves and the Bousfield–Kan formula**. (Joint with Daniel Carranza and Chris Kapulkin.)  
 *Advances in Math.* **503**, 111217. (2026) [journal](https://doi.org/10.1016/j.aim.2026.111217) [arxiv](https://arxiv.org/abs/2511.12809)
 1. **A context for manifold calculus**.  
-*J. Homotopy Relat. Struct.* [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
+*J. Homotopy Relat. Struct.* **21**, 573–642. (2026) [journal](https://doi.org/10.1007/s40062-026-00399-8) [arxiv](https://arxiv.org/abs/2403.03321)
 1. **A short proof of the universality of the relative Rezk nerve**. (Joint with Bastiaan Cnossen.)  
 *Proc. Amer. Math. Soc.* **154**, 1849–1853. (2026) [journal](https://doi.org/10.1090/proc/17483) [arxiv](https://arxiv.org/abs/2505.14123)
 1. **Homotopy limits and homotopy colimits of chain complexes**.  
